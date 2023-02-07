@@ -10,7 +10,7 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "PermissionsKit",
+            name: "PermissionsKitLib",
             targets: ["PermissionsKit"]),
     ],
     dependencies: [],
