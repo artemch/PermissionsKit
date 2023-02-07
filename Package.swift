@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PermissionsKit",
-            url: "https://github.com/artemch/PermissionsKit/releases/download/1.0.3/PermissionsKit.xcframework.zip",
-            checksum: "8c4cc794fc883101fef9874fa22630f2ea8076f79910dd52f1a7411163d32787"
+            url: "https://github.com/artemch/PermissionsKit/releases/download/1.0.4/PermissionsKit.xcframework.zip",
+            checksum: "c4d6ce5c6018eaeaf1fbc1e5a60eecdc4f5653998708999788cfa4e5bfcda4ae"
         ),
     ]
 )
